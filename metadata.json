@@ -1,0 +1,5 @@
+{
+  "name": "托盘装箱规划11",
+  "description": "基于3D算法与Gemini AI的海运货物最佳装箱方案计算器。支持多规格混装、3D空间计算及智能装载建议。",
+  "requestFramePermissions": []
+}
